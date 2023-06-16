@@ -1,3 +1,18 @@
+<div align="center">
+  
+  # Trello Clone with NEXT.JS & Typescript!
+  
+  **Trello Clone with NEXT.JS & Typescript! (ReactJS, Typescript, Cloud appwrite database, Zustand State Management, React Beautiful Drag and Drop Functionality,Search for Perticular Event Functionality, Tailwind CSS, Fully Responsive with Tailwind CSS Breakpoints)**
+</div>
+
+## :star: Hosted Project
+- ### [Live Project](https://rushikesh-bhavsar-amazon-clone-git-master-rushikeshbhavsar3605.vercel.app/)
+
+## :camera: Screenshots
+
+<br>
+<br>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
