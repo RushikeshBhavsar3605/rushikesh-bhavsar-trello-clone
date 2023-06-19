@@ -2,7 +2,7 @@
   
   # Trello Clone with NEXT.JS & Typescript!
   
-  **Trello Clone with NEXT.JS & Typescript! (ReactJS, Typescript, Cloud appwrite database, Zustand State Management, React Beautiful Drag and Drop Functionality, Add Task Functionality, Remove Task Functionality, Search for Perticular Task Functionality, Tailwind CSS, Fully Responsive with Tailwind CSS Breakpoints)**
+  **Trello Clone with NEXT.JS & Typescript! (ReactJS, Typescript, Cloud appwrite database, Chat GPT API, Zustand State Management, React Beautiful Drag and Drop Functionality, Add Task Functionality, Remove Task Functionality, Search for Perticular Task Functionality, Tailwind CSS, Fully Responsive with Tailwind CSS Breakpoints)**
 </div>
 
 ## :star: Hosted Project
