@@ -11,25 +11,22 @@
 ## :camera: Screenshots
 
 #### <p align="center">Trello Screen</p>
-![trelloScreen](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-trello-clone/assets/129877176/7a617af0-a1d1-4612-80e8-ec58a7be79b4)
+![trelloScreen](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-trello-clone/assets/129877176/ccadcaae-ca22-456a-8242-fd76ddf9341a)
 
 <hr>
 
 #### <p align="center">Trello Drag and Drop</p>
-![trello-dnd](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-trello-clone/assets/129877176/ba8bdf15-813b-42bf-9aab-ed7ca093bc24)
-
+![trello-dnd](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-trello-clone/assets/129877176/8f7f86cd-fceb-48e3-9932-f1e3e28f8b97)
 
 <hr>
 
 #### <p align="center">Trello Search Functionality</p>
-![trello-search](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-trello-clone/assets/129877176/43c1e827-c13e-4d92-80f3-d0d90ce99d05)
-
+![trello-search](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-trello-clone/assets/129877176/f364e833-ea90-4f22-8c61-557eaada9336)
 
 <hr>
 
 #### <p align="center">Trello Add Task Model Screen</p>
-![trello-model](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-trello-clone/assets/129877176/b56c4495-18b5-4402-8a72-13ad7e96d908)
-
+![trello-model](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-trello-clone/assets/129877176/e6c9f740-4956-4096-b6b8-5b7414d38728)
 
 <hr>
 
